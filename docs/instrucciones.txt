@@ -1,0 +1,5 @@
+1. Generar .txt y escribir nombres de usuarios de moneda-par --uno en cada linea. Guardar en /data como users_yyyy-mm-dd.txt
+2. Modificar los parametros correspondientes en data/parameters.txt y guardar.
+3. Correr Rscript 01_read.R desde /waba-ConteoCryptofresh/
+4. Correr Rscript 02_process.R desde /waba-ConteoCryptofresh/
+(En lugar de 3 y 4 se puede correr directamente program.sh)

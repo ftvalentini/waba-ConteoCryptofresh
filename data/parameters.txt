@@ -1,0 +1,5 @@
+"token" "MONEDAPAR"
+"timezone" "America/Buenos_Aires"
+"datetime_start" "2018-08-25 12:00"
+"datetime_end" "2018-08-25 22:00"
+"save_excel" "TRUE"
